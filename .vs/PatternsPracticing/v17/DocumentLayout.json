@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\jsonsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\jsonsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\idatasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\idatasaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\savermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\apppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\apppresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\pdfsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\pdfsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|c:\\users\\user\\source\\repos\\patternspracticing\\patternspracticing\\txtsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEDD00-29C7-492E-A11D-66A7DEF02D8E}|PatternsPracticing\\PatternsPracticing.csproj|solutionrelative:patternspracticing\\txtsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDataSaver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\IDataSaver.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\IDataSaver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\IDataSaver.cs",
+              "RelativeToolTip": "PatternsPracticing\\IDataSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:21:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PatternsPracticing\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwEYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:50:04.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PatternsPracticing\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\MainWindow.xaml",
+              "RelativeToolTip": "PatternsPracticing\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T13:49:41.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\AppPresenter.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\AppPresenter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\AppPresenter.cs",
+              "RelativeToolTip": "PatternsPracticing\\AppPresenter.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA7wEMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T11:50:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaverManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\SaverManager.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\SaverManager.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\SaverManager.cs",
+              "RelativeToolTip": "PatternsPracticing\\SaverManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:30:30.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonSaver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\JsonSaver.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\JsonSaver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\JsonSaver.cs",
+              "RelativeToolTip": "PatternsPracticing\\JsonSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:24:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfSaver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\PdfSaver.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\PdfSaver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\PdfSaver.cs",
+              "RelativeToolTip": "PatternsPracticing\\PdfSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:19:15.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TxtSaver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\TxtSaver.cs",
+              "RelativeDocumentMoniker": "PatternsPracticing\\TxtSaver.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\PatternsPracticing\\PatternsPracticing\\TxtSaver.cs",
+              "RelativeToolTip": "PatternsPracticing\\TxtSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T10:08:36.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
